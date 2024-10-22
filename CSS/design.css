@@ -1,0 +1,4 @@
+#needle {
+    transform-origin: 50% 50% ;
+    transition: transform 0.7s cubic-bezier(0.42,0.0,0.50,1);
+}
